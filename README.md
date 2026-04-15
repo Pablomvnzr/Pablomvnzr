@@ -37,7 +37,7 @@ Developed a wearable device using **ESP32** designed to detect high-stress situa
 ---
 
 ## 📈 GitHub Stats
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablomvnzr&show_icons=true&theme=tokyonight)
 
 ---
 
