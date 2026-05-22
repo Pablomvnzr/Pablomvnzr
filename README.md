@@ -7,10 +7,10 @@ I am a 4th-year Engineering student at **Universidad Diego Portales (UDP)** with
 ---
 
 ## About Me ᕙ(  •̀ ᗜ •́  )ᕗ
-- 🎓 **Education:** Pursuing a B.S. in Civil Computer Engineering and Telecommunications.
-- 🏫 **Academic Leadership:** Serving as a **Teaching Assistant** for *Chemistry* and *ICT Project 1*, helping peers master technical concepts.
-- 🌎 **Languages:** Native proficiency in both **English and Spanish**.
-- 🎯 **Goal:** Currently preparing for **AWS Certified Cloud Practitioner** and **Azure Fundamentals** to bridge the gap between local development and global cloud deployment.
+- **Education:** Pursuing a B.S. in Civil Computer Engineering and Telecommunications.
+- **Academic Leadership:** Serving as a **Teaching Assistant** for *Chemistry* and *ICT Project 1*, helping peers master technical concepts.
+- **Languages:** Native proficiency in both **English and Spanish**.
+- **Goal:** Currently preparing for **AWS Certified Cloud Practitioner** and **Azure Fundamentals** to bridge the gap between local development and global cloud deployment.
 
 ---
 
@@ -24,24 +24,24 @@ I am a 4th-year Engineering student at **Universidad Diego Portales (UDP)** with
 
 ## ˗ˏˋ ★ ˎˊ˗ Featured Projects
 
-### 📟 "TicPrev" - IoT Emergency Response System 
+### "TicPrev" - IoT Emergency Response System 
 *1st Place Winner - ICT Project Fair (UDP)*
 Developed a wearable device using **ESP32** designed to detect high-stress situations (armed robberies) and "hurto" (theft via signal loss).
 - **Tech:** C++, Bluetooth Low Energy (BLE), Accelerometers, Pulse/O2 Sensors.
 - **Key Feature:** Automated SOS SMS alerts with real-time GPS coordinates and an un-stoppable alarm system triggered by connection drops.
 
-### 🎮 Game Development Prototypes (UE5)
+### Game Development Prototypes (UE5)
 - **Frenetic FPS Framework:** A high-speed combat demo focused on movement mechanics, projectile physics, and enemy AI behavior trees.
 - **3D Pong & Platformers:** Explorations into 3D spatial logic, game state management, and level design fundamentals in Unreal Engine.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablomvnzr&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 - **LinkedIn:** [Pablo Andrés Muñoz Rojas](https://www.linkedin.com/in/pablo-mu%C3%B1oz-147aba2a7/)
 - **Email:** [Pablomvnzr@gmail.com](mailto:Pablomvnzr@gmail.com)
 
